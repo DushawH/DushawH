@@ -1,0 +1,59 @@
+.bolded{font-weight: bold;}
+    .hi{
+        font-weight: bold;
+        color: #000000;
+    }
+    /* .table{
+        
+        border-collapse: collapse;
+        width:75%;
+        background-color:  #808080;
+        text-align: center;
+        } */
+
+    /* .table thead tr{
+        background-color: #808080;
+        color: #000000;
+    } */
+
+    /* .table th,
+    .table td{
+        padding: 12px 15px;
+        border: solid 1px #000000;
+    } */
+
+    /* .table tbody tr{
+        border: solid 1px #000000;
+        border-bottom: 1px solid #000000;
+        border-left: 1px solid #000000;
+        border-right: 1px solid #000000;
+    } */
+    /* .submit{
+        height:25px;
+        width:75px;
+        font-size: 1rem;
+        text-align:center;
+        color:#FFFFFF;
+        background-color: #FFBB00;
+    } */
+    a:hover {
+        color: #0000FF ;
+      }
+
+/* body{
+    background-color: white;
+} */
+
+/* .TUimg{
+    background-image: url('Towson_University.png'); 
+    width: 400px;
+    height: 200px;
+    background-color: #FFFFFF;
+} */
+
+/* styledimg {
+    background-image: url(/Towson_University.png);
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 20px;
+    } */

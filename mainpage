@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+
+    <nav>
+        <a href="./resume">Resume</a>
+        <!-- <a href="./about.html">About</a>
+        <a href="./service.html">Service</a>
+        <a href="./contact.html">Contact</a> -->
+    </nav>
+
+    <br>
+
+    <span class="hi">
+    <h1>Hello, My name is Dushaw Hockett II</h1>
+    </span> 
+
+    <br>
+
+    <p>I am currently attending Towson University, majoring in Computer Science (Cyber Operations). 
+        During my Freshman year, I joined Northrop Grumman in a venture to expand and broaden 
+        my horizons in the field 
+        of both Software Programming and Cyber Security. When I am not studying 
+        I invest my time in hobbies such as playing 
+        piano, guitar, Brazilian Jiu-Jitsu, or researching automotive engineering. 
+        At school I am also apart of the 
+        Cyber Defense Club, where members practice primarily 
+        red team activities to sharpen our Cyber Security Skills.</p>
+
+
+        <p>For a more detailed view of my experience (including a resume) please visit my linkedin 
+            <a class="a.hover" href="www.linkedin.com/in/dushaw-hockett">Towson Website</a> for more information.</p>
+
+
+    </head>
+</html>
